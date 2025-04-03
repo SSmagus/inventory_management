@@ -18,18 +18,6 @@ An inventory management system built using **TypeScript**,  **Next.js**, **Postg
 - **ORM:** Prisma
 - **Deployment:** Vercel
 
-## Screenshots
-### Home Page
-[Place for Home Page Screenshot]
-
-### Login Page
-[Place for Login Page Screenshot]
-
-### Dashboard
-[Place for Dashboard Screenshot]
-
-### Inventory Management Page
-[Place for Inventory Management Screenshot]
 
 ## Installation
 1. Clone the repository:
